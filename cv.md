@@ -135,3 +135,5 @@ int main()
 	delete Head;
 }
 ```
+6. --
+7. I'm a second-year student at BSUIR. Completed stepik courses in Javascript and HTML / CSS.
