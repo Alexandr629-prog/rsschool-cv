@@ -1,0 +1,20 @@
+.photo{
+    text-align: center;
+}
+
+.image{
+    width: 320px;
+    height: 400px;
+}
+
+
+body{
+    max-width: 1024px;
+    margin: auto;
+    
+}
+.name{
+    background-color: grey;
+    font-weight: bold;
+}
+
